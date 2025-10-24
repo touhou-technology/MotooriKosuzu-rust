@@ -1,1 +1,1 @@
-# MotooriKosuzu-CLI
+# MotooriKosuzu-rust

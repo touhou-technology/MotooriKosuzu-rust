@@ -4,5 +4,7 @@
 * src
 ** main
 - [[file:src/main.rs][main.rs]]
-  
-  
+** notebook
+config and cache
+依照config驱动缓存数据也存放在cache
+[[file:src/notebook.rs][notebook.rs]]

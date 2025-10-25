@@ -6,5 +6,6 @@
 - [[file:src/main.rs][main.rs]]
 ** notebook
 config and cache
-依照config驱动缓存数据也存放在cache
+依照config驱动缓存数据也存放在cache(类似使用笔记一样)
+对于缓存把笔记本当作草稿纸(或许吧)
 [[file:src/notebook.rs][notebook.rs]]

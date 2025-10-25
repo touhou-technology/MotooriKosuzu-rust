@@ -2,10 +2,9 @@
 # 想尝试构建一个*guix的(完善开发后只需要配置好就能实现需求, 包括后续递增的需求)的感觉
 
 * src
-** main
-- [[file:src/main.rs][main.rs]]
-** notebook
+** - [[file:src/main.rs][main]]
+入口
+** - [[file:src/notebook.rs][notebook.rs]]
 config and cache
 依照config驱动缓存数据也存放在cache(类似使用笔记一样)
 对于缓存把笔记本当作草稿纸(或许吧)
-[[file:src/notebook.rs][notebook.rs]]

@@ -2,10 +2,12 @@ use std::collections::HashMap;
 
 use dotenv;
 
-struct Book {
+pub struct Book {
 
 }
 
 impl Book {
+    pub fn init(){
 
+    }
 }
